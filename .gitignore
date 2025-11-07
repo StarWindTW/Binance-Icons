@@ -1,0 +1,8 @@
+node_modules/
+npm-debug.log
+.DS_Store
+*.log
+GITHUB_CDN.md
+README.md
+start.bat
+vercel.json
